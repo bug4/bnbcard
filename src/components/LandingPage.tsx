@@ -116,7 +116,7 @@ export default function LandingPage({ onNavigateToGenerator }: LandingPageProps)
               Create Your BNB ID Now
             </button>
             <a
-              href="https://twitter.com/search?q=%23BNBCard&src=typed_query"
+              href="https://x.com/i/communities/1973470926164431220"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-4 border-2 border-black hover:bg-black hover:text-yellow-400 rounded-full font-bold text-lg transition-colors"
