@@ -14,7 +14,7 @@ export default function LandingPage({ onNavigateToGenerator }: LandingPageProps)
             <span className="text-2xl font-bold">BNB ID</span>
           </div>
           <a
-            href="https://x.com/i/communities/1973470926164431220"
+            href="https://x.com/i/communities/1973669241472602610/"
             target="_blank"
             rel="noopener noreferrer"
             className="px-6 py-2 bg-blue-500 hover:bg-blue-600 rounded-full font-semibold transition-colors"
@@ -42,7 +42,7 @@ export default function LandingPage({ onNavigateToGenerator }: LandingPageProps)
                 Create My BNB ID
               </button>
               <a
-                href="https://x.com/i/communities/1973470926164431220"
+                href="https://x.com/i/communities/1973669241472602610/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-8 py-4 border-2 border-yellow-400 hover:bg-yellow-400 hover:text-black text-yellow-400 rounded-full font-bold text-lg transition-colors text-center"
@@ -116,7 +116,7 @@ export default function LandingPage({ onNavigateToGenerator }: LandingPageProps)
               Create Your BNB ID Now
             </button>
             <a
-              href="https://x.com/i/communities/1973470926164431220"
+              href="https://x.com/i/communities/1973669241472602610/"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-4 border-2 border-black hover:bg-black hover:text-yellow-400 rounded-full font-bold text-lg transition-colors"
